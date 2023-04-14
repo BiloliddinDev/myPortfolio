@@ -41,7 +41,7 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>introdoction</p>
-        <h2 className={styles.sectionHeadText}>Overaiew</h2>
+        <h2 className={styles.sectionHeadText}>My goal</h2>
       </motion.div>
       <motion.p
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
